@@ -70,7 +70,7 @@ Para incluir efetivamente clique em ** Tenho essa experiência -- incluir**
 
 ---
 
-### Quando clicar no seu e-mail, o menu será exibido para Meu Histórico, Dashboard da evolução e Conta e privacidade
+### Quando clicar no seu e-mail, o menu será exibido para Meu Histórico, Dashboard da evolução e Conta e privacidade, bem como, **Sair do Aplicativo**
 
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/28dda7bf-7251-4a12-a5c5-59237ba5771e" />
 
