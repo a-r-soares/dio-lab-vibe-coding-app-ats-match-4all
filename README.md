@@ -280,7 +280,7 @@ A regra de nunca inventar foi validada com **7 casos de teste com dados fictíci
 
 ## 👤 Autoria e agradecimentos
 
-- **Autor e idealização:** Roberto ([@a-r-soares](https://github.com/a-r-soares))
+- **Autor e idealização:** Alcino Roberto Soares ([@a-r-soares](https://github.com/a-r-soares))
 - **Prompt inicial e casos de teste:** gerados com o **Claude**, da [Anthropic](https://www.anthropic.com)
 - **Construção do aplicativo:** [Lovable](https://lovable.dev)
 
