@@ -25,7 +25,7 @@
 
 ---
 
-### Se, no quadro "O que fata" algum item que você realmente tem experiência, poderá clicar no ítem e informar seu conhecimento/experiência
+### Se, no quadro "O que falta" algum item que você realmente tem experiência, poderá clicar no ítem e informar seu conhecimento/experiência
 
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/6ecf2a39-e96f-42c3-acfe-540efe67a92f" />
 
