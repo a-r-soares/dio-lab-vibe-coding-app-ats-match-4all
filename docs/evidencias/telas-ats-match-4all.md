@@ -37,10 +37,14 @@ Para incluir efetivamente clique em ** Tenho essa experiência -- incluir**
 
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/4f35cd57-be97-43f9-af7a-d2d7f645e43b" />
 
+---
+
 ### Agora você tem o currículo revisado e disponível em vários formatos para compartilhamento
 
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/0e0da65e-c161-4629-8fb5-c6f8a45e464b" />
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/cb4ee577-2f78-4725-a7a7-a26d780ad9ac" />
+
+---
 
 ### Para quem deseja salvar as análises:
 **Criar Conta** informar seu e-mail desejado. Um e-mail será enviado para confirmação e liberação do acesso.
