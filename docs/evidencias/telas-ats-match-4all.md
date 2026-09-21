@@ -83,7 +83,7 @@ Para incluir efetivamente clique em ** Tenho essa experiência -- incluir**
 ---
 
 ### Abrindo uma análise feita anteriormente, toda a análise solicitada será exibida
-**Observe o rodapé da página*** - Pode compartilhar um dos formatos de arquivo ou **Duplicar (nova versão)** para realizar uma nova análse mantendo a atual
+**Observe o rodapé da página** - Pode compartilhar um dos formatos de arquivo ou **Duplicar (nova versão)** para realizar uma nova análse mantendo a atual
 
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/6f479b87-408a-4e3a-8ad1-ea8933cd1502" />
 
