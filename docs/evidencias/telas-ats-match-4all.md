@@ -76,7 +76,7 @@ Para incluir efetivamente clique em ** Tenho essa experiência -- incluir**
 
 ---
 
-### Cicando em Histórico, você tem opções busca, filtro, abrir a análise ou excluí-la.
+### Clicando em Histórico, você tem opções busca, filtro, abrir a análise ou excluí-la.
 
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/568b9c89-06ae-4d17-b6fa-b31e7d3ed7b0" />
 
