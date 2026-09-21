@@ -76,13 +76,13 @@ Para incluir efetivamente clique em ** Tenho essa experiência -- incluir**
 
 ---
 
-### Clicando em Histórico, você tem opções busca, filtro, abrir a análise ou excluí-la.
+### Clicando em Histórico, você tem as opções de "buscar, filtrar, abrir" a análise ou excluí-la.
 
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/568b9c89-06ae-4d17-b6fa-b31e7d3ed7b0" />
 
 ---
 
-### Abrindo uma das análise feita anteriormente, toda a análise solicitada será exibida
+### Abrindo uma análise feita anteriormente, toda a análise solicitada será exibida
 **Observe o rodapé da página*** - Pode compartilhar um dos formatos de arquivo ou **Duplicar (nova versão)** para realizar uma nova análse mantendo a atual
 
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/6f479b87-408a-4e3a-8ad1-ea8933cd1502" />
