@@ -59,6 +59,42 @@ Para incluir efetivamente clique em ** Tenho essa experiência -- incluir**
 
 ---
 
+### O demais procedimentos são idênticos aos dos que não estão conectados
+**Salvar análise** - clicando neste botão, sua análise atual será armazenada como hisórico
 
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/c61a950d-ddc0-447b-938b-a73cdf66eb5c" />
 
 ---
+
+### Quando clicar no seu e-mail, o menu será exibido para Meu Histórico, Dashboard da evolução e Conta e privacidade
+
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/28dda7bf-7251-4a12-a5c5-59237ba5771e" />
+
+---
+
+### Cicando em Histórico, você tem opções busca, filtro, abrir a análise ou excluí-la.
+
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/568b9c89-06ae-4d17-b6fa-b31e7d3ed7b0" />
+
+---
+
+### Abrindo uma das análise feita anteriormente, toda a análise solicitada será exibida
+**Observe o rodapé da página*** - Pode compartilhar um dos formatos de arquivo ou **Duplicar (nova versão)** para realizar uma nova análse mantendo a atual
+
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/6f479b87-408a-4e3a-8ad1-ea8933cd1502" />
+
+---
+
+### Escolhendo Dashboard de evolução
+
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/05305483-5d70-4c48-be6a-492f91b8d6a5" />
+
+---
+
+### Escolhendo Conta e privacidade pode **Trocar Senha** ou **Excluir conta**
+
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/3d10d3af-b01d-4936-a44a-96d16e312708" />
+
+---
+
+**ATS Match 4All — apresente melhor o que você já viveu.**
