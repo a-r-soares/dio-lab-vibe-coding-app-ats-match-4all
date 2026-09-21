@@ -26,7 +26,7 @@
 
 🔗 **Aplicação publicada:** [match4all-lovable-jobs.lovable.app](https://match4all-lovable-jobs.lovable.app)
 
-Para que possa **visualizar as telas capturadas** do ATS MATCH 4ALL [clique aqui para acessar](./docs/evidencias/telas-ats-match-4all.md)
+Para que possa **visualizar as telas capturadas** do ATS MATCH 4ALL [clique aqui para acessar](./docs/evidencias/telas-ats-match-4all.md).
 
 ## 🎯 Sobre o projeto
 
